@@ -1,6 +1,6 @@
 # Pre-requisites
 
-Straou has some pre-requisites that needs to be met before the project can get up and running
+Strapi has some pre-requisites that needs to be met before the project can get up and running
 
 - Python3 needs to be installed in order to run or else you wil run into a npm ERR! npm gyp err.
 - Works with latest LTS version of Node
